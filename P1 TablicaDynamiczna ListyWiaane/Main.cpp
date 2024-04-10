@@ -210,7 +210,7 @@ int main()
 	//AddTests(dynamicArray, "DynamicArrayTests.txt");
 	//FindTests(dynamicArray, "DynamicArrayFindTests.txt");
 	ListaJednokierunkowa* list = new ListaJednokierunkowa();
-	AddTests(list, "SingleLinkedListTests.txt");
+	//AddTests(list, "SingleLinkedListTests.txt");
 	//FindTests(list, "SingleLinkedFindTests.txt");
 	ListaJednokierunkowaTail* list1 = new ListaJednokierunkowaTail();
 	//AddTests(list1, "SingleLinkedListWithTailTests.txt");
